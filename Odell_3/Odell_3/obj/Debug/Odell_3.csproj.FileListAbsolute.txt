@@ -1,0 +1,20 @@
+C:\Users\Owner\source\repos\Odell_3\Odell_3\bin\Debug\Odell_3.exe.config
+C:\Users\Owner\source\repos\Odell_3\Odell_3\bin\Debug\Odell_3.exe
+C:\Users\Owner\source\repos\Odell_3\Odell_3\bin\Debug\Odell_3.pdb
+C:\Users\Owner\source\repos\Odell_3\Odell_3\obj\Debug\Odell_3.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Odell_3\Odell_3\obj\Debug\Odell_3.Form1.resources
+C:\Users\Owner\source\repos\Odell_3\Odell_3\obj\Debug\Odell_3.Properties.Resources.resources
+C:\Users\Owner\source\repos\Odell_3\Odell_3\obj\Debug\Odell_3.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Odell_3\Odell_3\obj\Debug\Odell_3.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Odell_3\Odell_3\obj\Debug\Odell_3.exe
+C:\Users\Owner\source\repos\Odell_3\Odell_3\obj\Debug\Odell_3.pdb
+C:\Users\Owner\Documents\ISM3232\Assignment 3\Odell_3\Odell_3\bin\Debug\Odell_3.exe.config
+C:\Users\Owner\Documents\ISM3232\Assignment 3\Odell_3\Odell_3\bin\Debug\Odell_3.exe
+C:\Users\Owner\Documents\ISM3232\Assignment 3\Odell_3\Odell_3\bin\Debug\Odell_3.pdb
+C:\Users\Owner\Documents\ISM3232\Assignment 3\Odell_3\Odell_3\obj\Debug\Odell_3.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\ISM3232\Assignment 3\Odell_3\Odell_3\obj\Debug\Odell_3.Form1.resources
+C:\Users\Owner\Documents\ISM3232\Assignment 3\Odell_3\Odell_3\obj\Debug\Odell_3.Properties.Resources.resources
+C:\Users\Owner\Documents\ISM3232\Assignment 3\Odell_3\Odell_3\obj\Debug\Odell_3.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\ISM3232\Assignment 3\Odell_3\Odell_3\obj\Debug\Odell_3.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\ISM3232\Assignment 3\Odell_3\Odell_3\obj\Debug\Odell_3.exe
+C:\Users\Owner\Documents\ISM3232\Assignment 3\Odell_3\Odell_3\obj\Debug\Odell_3.pdb
